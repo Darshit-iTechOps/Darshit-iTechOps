@@ -2,7 +2,7 @@
 <h3 align="left">Innovative and detail-oriented DevOps Engineer @iTechOps with a Bachelor's degree in Information Technology from GTU. Passionate about leveraging cloud technologies to streamline operations and optimize efficiency. Proficient in managing Kubernetes clusters on AWS and Azure clouds, implementing best practices for cloud solutions, and orchestrating CI/CD pipelines with Jenkins. Skilled in Git management and proficient in creating and deploying Helm Charts. A quick learner with strong time management and critical thinking abilities. Let's connect! Open to new opportunities and collaborations in the DevOps and Cloud domain.</h3>
 
 
-- 📫 How to reach me **bhuvadarshit2001@gmail.com**
+<h3 align="left">- 📫 How to reach me:</h3>
 
 <p align="left">
 <a href="https://instagram.com/darshitbhuva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshitbhuva_" height="30" width="40" /></a>
