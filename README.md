@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🙋, I'm Darshit Bhuva</h1>
 <h3 align="left">Innovative and detail-oriented DevOps Engineer @iTechOps with a Bachelor's degree in Information Technology from GTU. Passionate about leveraging cloud technologies to streamline operations and optimize efficiency. Proficient in managing Kubernetes clusters on AWS and Azure clouds, implementing best practices for cloud solutions, and orchestrating CI/CD pipelines with Jenkins. Skilled in Git management and proficient in creating and deploying Helm Charts. A quick learner with strong time management and critical thinking abilities. Let's connect! Open to new opportunities and collaborations in the DevOps and Cloud domain.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshit-itechops" alt="darshit-itechops" /></a> </p>
 
 - 📫 How to reach me **bhuvadarshit2001@gmail.com**
 
