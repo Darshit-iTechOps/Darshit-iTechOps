@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://instagram.com/darshitbhuva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshitbhuva_" height="30" width="40" /></a>
 </p>
-[![Gmail Icon](https://github.com/timche/gmail-desktop/blob/main/media/icon.svg)](mailto:bhuvadarshit2001@gmail.com)
+
 <!-- <p align="left">
 <a href="https://instagram.com/darshitbhuva_" target="blank"><img align="center" src="" alt="darshitbhuva_" height="30" width="40" /></a>
 </p> -->
